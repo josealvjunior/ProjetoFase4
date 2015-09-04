@@ -1,0 +1,23 @@
+{
+  "name": "projeto-frontend",
+  "version": "0.0.0",
+  "description": "Frontend do Gerenciador de projetos",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "resources/bower_components",
+    "test",
+    "tests"
+  ],
+  "authors": [
+    "Jose Vicente"
+  ],
+  "dependencies": {
+    "angular": "1.4.1"
+  }
+}
